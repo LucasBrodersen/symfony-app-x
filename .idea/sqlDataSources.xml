@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="0165ea76-bf0e-4960-9460-0bc2014767e9" name="@bitnami_myapp Mapping">
+      <data-sources db="d7338066-9e52-470d-8528-c1cffb8c3109" />
+      <scope>
+        <node kind="schema" qname="bitnami_myapp" />
+      </scope>
+    </mapping>
+  </component>
+</project>
