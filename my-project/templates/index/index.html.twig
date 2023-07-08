@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% include '/index/sidebar.html.twig' %}
+
+    <div class="container-fluid">
+        <div class="container-fluid" style="background-color: red; margin-left: 15%;">                <!-- Main content goes here -->
+            Your lucky number is: {{ number }}
+        </div>
+    </div>
+{% endblock %}
